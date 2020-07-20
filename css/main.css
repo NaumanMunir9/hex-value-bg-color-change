@@ -1,0 +1,8 @@
+:root {
+  --mainPink: #ff66b3;
+  --mainGreen: #44bba4;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
